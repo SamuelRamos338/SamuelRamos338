@@ -3,11 +3,6 @@
 - 🔭 Hoje trabalho com: front-end
 - 🌱 Estudando: NodeJs and React native
 
-  
-[![SamuelRamos338 GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRamos338)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRamos338&hide_progress=true)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Samuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -24,3 +19,7 @@
   <a href="https://www.linkedin.com/in/samuel-ramos-cruz-5b2b7b329/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  
+[![SamuelRamos338 GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRamos338)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRamos338&hide_progress=true)
