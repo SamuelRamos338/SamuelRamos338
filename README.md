@@ -1,4 +1,4 @@
-###Oii! Eu sou Samuel Ramos
+## Oii! Eu sou Samuel Ramos
 
 - 🔭 Hoje trabalho com: front-end
 - 🌱 Estudando: NodeJs and React native
