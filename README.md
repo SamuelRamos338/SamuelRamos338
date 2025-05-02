@@ -24,8 +24,22 @@
   <a href = "mailto:samuelramoscruz337"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-ramos-cruz-5b2b7b329/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-  
-[![SamuelRamos338 GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRamos338)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRamos338&hide_progress=true)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=samuelramos338&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelramos338&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
