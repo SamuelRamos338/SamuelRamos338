@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web e Mobile`**
 
-Me chamo Samuel Ramos Cruz , tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau-Aracaju
+Me chamo Samuel Ramos Cruz , tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau
 
 ###  Linguagens e Tecnologias
 
